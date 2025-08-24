@@ -1,3 +1,3 @@
 # devoops
 
-Sumeet 012398209 123@gmail.com
+Sumit 012398209 123@gmail.com
